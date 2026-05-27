@@ -32,29 +32,21 @@ Experience includes:
 - Mavrick Labs AI
 - VenireIQ™ (Patent Pending)
 - GreatCoin (GR8)
+- Token Boss Guide
 
 ## Technical Projects
 
 ### GreatCoin (GR8)
+
 BEP20 smart contract deployed on Binance Smart Chain and listed on BscScan.
+
+### Token Boss Guide
+
+Step by step deployment and branding framework for launching BEP20 token ecosystems and smart contract projects.
 
 ## Websites
 
 - https://www.mavrickgroup.com
 - https://www.mavrickgroup.com/venireiq
 - https://www.mavrickgroup.com/greatcoin
-
-<!--
-**GR847/GR847** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- https://www.mavrickgroup.com/tokenbossguide
